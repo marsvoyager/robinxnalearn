@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+# Visual C# Express 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collision", "Collision\Collision.csproj", "{2C07ACE1-579A-4A1F-BC86-62D858E98F55}"
 EndProject
 Global
@@ -13,8 +13,8 @@ Global
 		{2C07ACE1-579A-4A1F-BC86-62D858E98F55}.Debug|x86.Build.0 = Debug|x86
 		{2C07ACE1-579A-4A1F-BC86-62D858E98F55}.Release|x86.ActiveCfg = Release|x86
 		{2C07ACE1-579A-4A1F-BC86-62D858E98F55}.Release|x86.Build.0 = Release|x86
-		{3DCCC908-80BA-4C29-AB77-6185CBB01525}.Debug|x86.ActiveCfg = Debug|x86
-		{3DCCC908-80BA-4C29-AB77-6185CBB01525}.Release|x86.ActiveCfg = Release|x86
+		{7BD8C3EA-EBC6-4965-A336-D073E403F995}.Debug|x86.ActiveCfg = Debug|x86
+		{7BD8C3EA-EBC6-4965-A336-D073E403F995}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
